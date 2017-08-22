@@ -1,0 +1,32 @@
+To begin. Add your own tile png's to the file named Images
+do not manipulate the folder inside it named keep.  
+	now that you have added your own tiles.  Run the .py script
+example_app-map_builder.py
+My App will create a list of the images in the Images folder. It does
+not matter what size your tiles are.  
+	The first screen of the app alows to set the size of the 
+Grid you will be working with.  This also Automatically resized the 
+tiles. Once you've set the disired tile size. Press enter or space or 
+any keyboard key.  This will take you to the building grid screen
+
+--The keys z,x filter threw the list of images.  You can also do this
+by  clicking the two filtering buttons on the top right of the screen.
+ Note that this will also change the image of the last used tile
+
+-- The grid has a toggle button for clicking.  This will turn 
+the grid on and off
+
+--Now that you have finished building your backround or scene.  Press
+the key -p-.  This will display a preview of the image you have created
+under the grid window.  If you have the grid toggle on.  The image will
+be created with the grid visible.  so if you wish to have a clean image
+turn the grid off before hitting the key -p-.
+
+--further note.  the image(.pnd) that youve created will auto save in
+the image folder.  There are only 11 spaced to save before you will start
+to overright the first.
+	once your are done it is important to change the directory folder
+in which the newly created image is, as to not have it append to the tile
+list the next time your run the program.  Not that it would hurt it anyway
+        enjoy!!!
+
